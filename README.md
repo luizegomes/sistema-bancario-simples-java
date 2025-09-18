@@ -46,15 +46,13 @@ O programa permite o **cadastro de contas bancárias**, depósitos e saques, seg
 - **Palavra-chave `this`**: para diferenciar atributos de parâmetros e reutilizar código.
 - **Encapsulamento**: atributos privados com métodos `get` e `set` controlando acesso e modificações.
 
----
-
-## 📂 Estrutura do Projeto
-src/
- ├── application/
- │   └── Programa.java        # Classe principal (fluxo do programa)
- └── entities/
-     └── Conta.java  # Classe que representa a conta
 
 ---
 
 ## 💻 Exemplo de Execução
+- Exemplo 1:
+<img width="655" height="403" alt="exemplo1" src="https://github.com/user-attachments/assets/4a588c0a-32ee-4d4a-98f2-a3b564fa93cc" />
+
+- Exemplo 2:
+<img width="651" height="405" alt="exemplo2" src="https://github.com/user-attachments/assets/65c2c505-0113-4cfa-acfd-4217ba4c13fa" />
+
